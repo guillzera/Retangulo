@@ -1,0 +1,14 @@
+C:\C#\POO\Retangulo\Retangulo\obj\Debug\net8.0\Retangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\POO\Retangulo\Retangulo\obj\Debug\net8.0\Retangulo.AssemblyInfoInputs.cache
+C:\C#\POO\Retangulo\Retangulo\obj\Debug\net8.0\Retangulo.AssemblyInfo.cs
+C:\C#\POO\Retangulo\Retangulo\obj\Debug\net8.0\Retangulo.csproj.CoreCompileInputs.cache
+C:\C#\POO\Retangulo\Retangulo\bin\Debug\net8.0\Retangulo.exe
+C:\C#\POO\Retangulo\Retangulo\bin\Debug\net8.0\Retangulo.deps.json
+C:\C#\POO\Retangulo\Retangulo\bin\Debug\net8.0\Retangulo.runtimeconfig.json
+C:\C#\POO\Retangulo\Retangulo\bin\Debug\net8.0\Retangulo.dll
+C:\C#\POO\Retangulo\Retangulo\bin\Debug\net8.0\Retangulo.pdb
+C:\C#\POO\Retangulo\Retangulo\obj\Debug\net8.0\Retangulo.dll
+C:\C#\POO\Retangulo\Retangulo\obj\Debug\net8.0\refint\Retangulo.dll
+C:\C#\POO\Retangulo\Retangulo\obj\Debug\net8.0\Retangulo.pdb
+C:\C#\POO\Retangulo\Retangulo\obj\Debug\net8.0\Retangulo.genruntimeconfig.cache
+C:\C#\POO\Retangulo\Retangulo\obj\Debug\net8.0\ref\Retangulo.dll

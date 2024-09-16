@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#\\POO\\Retangulo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2429CD0A-E469-4350-B85E-EF5867EE5493}|Retangulo\\Retangulo.csproj|c:\\c#\\poo\\retangulo\\retangulo\\models\\retan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2429CD0A-E469-4350-B85E-EF5867EE5493}|Retangulo\\Retangulo.csproj|solutionrelative:retangulo\\models\\retan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2429CD0A-E469-4350-B85E-EF5867EE5493}|Retangulo\\Retangulo.csproj|c:\\c#\\poo\\retangulo\\retangulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2429CD0A-E469-4350-B85E-EF5867EE5493}|Retangulo\\Retangulo.csproj|solutionrelative:retangulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Retan.cs",
+              "DocumentMoniker": "C:\\C#\\POO\\Retangulo\\Retangulo\\Models\\Retan.cs",
+              "RelativeDocumentMoniker": "Retangulo\\Models\\Retan.cs",
+              "ToolTip": "C:\\C#\\POO\\Retangulo\\Retangulo\\Models\\Retan.cs",
+              "RelativeToolTip": "Retangulo\\Models\\Retan.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwBMAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T22:19:33.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C#\\POO\\Retangulo\\Retangulo\\Program.cs",
+              "RelativeDocumentMoniker": "Retangulo\\Program.cs",
+              "ToolTip": "C:\\C#\\POO\\Retangulo\\Retangulo\\Program.cs",
+              "RelativeToolTip": "Retangulo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T22:18:33.104Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
